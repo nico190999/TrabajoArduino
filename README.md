@@ -51,7 +51,7 @@ Por ejemplo:
 Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsador de a numeros NO primos, y quieres correr el switch para que se empieze a sumar de a numeros primos (switch hacia la izquierda), no lo permitira hasta que se aplique una flexión de 180° al sensor de flexión. 
 
 ## :robot: Link al proyecto
-- [Proyecto]([https://www.tinkercad.com/things/34vmM1zva4y-copy-of-stunning-lappi-kieran/editel?sharecode=F42e5XHR80Ocge0p2highHbdIEys9grwlMNyKdWlhOA](https://www.tinkercad.com/things/dDXRQc7dzjw)).
+- [Proyecto](https://www.tinkercad.com/things/34vmM1zva4y-copy-of-stunning-lappi-kieran/editel?sharecode=F42e5XHR80Ocge0p2highHbdIEys9grwlMNyKdWlhOA)
 
 ---
 ### Fuentes
