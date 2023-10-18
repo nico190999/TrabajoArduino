@@ -1,5 +1,5 @@
 # Trabajo grupal TinkerCad 
-![Tinkercad](./imagenes/ArduinoTinkercad.jpg)
+![Tinkercad](./imagenes/imagenprincipal.jpg)
 
 
 ## Integrantes 
@@ -9,7 +9,7 @@
 
 
 ## Proyecto: Arduino parte 2.
-![Tinkercad](./imagenes/CapturaArduino.PNG)
+![Tinkercad](./imagenes/arduinopartedos.PNG)
 
 
 ## Descripción
