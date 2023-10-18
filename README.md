@@ -1,5 +1,5 @@
 # Trabajo grupal TinkerCad 
-![Tinkercad](./imagenes/imagenprincipal.jpg)
+![Tinkercad](./imagenes/imagenprincipal.PNG)
 
 
 ## Integrantes 
