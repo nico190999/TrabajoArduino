@@ -8,7 +8,7 @@
 - Mateo Roberto
 
 
-## Proyecto: Multiplexación.
+## Proyecto: Arduino parte 2.
 ![Tinkercad](./imagenes/CapturaArduino.PNG)
 
 
