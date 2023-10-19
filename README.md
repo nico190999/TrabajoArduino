@@ -19,10 +19,10 @@ Consta de una placa de Arduino, de la cual se desprenden diversos cables que oto
 A traves de los botones del proyecto permite incrementar o resetear el número que forman ambos display, este va desde 00 hasta 99. Cada uno de los botones tiene su función de manera independiente. Si se corre el switch y se aplica flexión al sensor cambiara a un contador de números primos, se deben hacer ambos a la vez para que se cumplan las condiciones necesarias de modificación del contador. 
 
 
-###DISPOSITIVOS IMPLEMENTADOS EN EL PROYECTO
+### DISPOSITIVOS IMPLEMENTADOS EN EL PROYECTO
 
 
-###Interruptor deslizante
+### Interruptor deslizante
 
 
 Consta de un dispositivo el cual permite dejarlo de forma activa o inactiva a través de un interruptor. Va conectado a 5V, tierra y un pin de la placa de Arduino.
@@ -30,14 +30,14 @@ Consta de un dispositivo el cual permite dejarlo de forma activa o inactiva a tr
 De la forma que se implemento este dispositivo en nuestro proyecto es que cuando se encuentra de forma activa, solo va a mostrar números primos en los display, en el caso que se pulse el botón para incrementar, pasara al proximo número primo y en el caso de preisonar el botón para presionar volvera a 2 (no puede volver a 0 por que no es un número primo, automaticamanete pasa al siguiente despues del 0).
 
 
-###Motor CC
+### Motor CC
 
 Es un dispositivo, el cual permite que a partir de la energía que se genera en la placa de Arduino, convertirla en movimiento rotativo del motor de este. Su velocidad se mide en RPM (Revoluciones por minuto).
 
 De la forma que se implemento en nustro proyecto es que a medida que aumente el contador, aumentara también las RPM que genera el dispositivo.
 
 
-###Motor de aficionado
+### Motor de aficionado
 
 Es similar al motor cc, tiene dos terminales, uno positivo y otro negativo, cuando a este se le aplica un voltaje gira hacia un lado y la velocidad también se mide en RPM. Sin embargo, si se aplica un voltaje pero, los cables estan conectados al revez, el motor empezaría a girar hacia el lado contrario. Puede ir conectado a la placa de Arduino a través de dos pines. 
 
@@ -48,7 +48,7 @@ A tener presente que este aumenta en menor medida a lo que hace el Motor CC por 
 Esto se logra ya que, con la función analogWrite(), pasamos como parametro el pin asignado con el motor y el contador en nuestro proyecto.
 
 
-###Sensor de flexión
+### Sensor de flexión
 
 Se trata de un dispositivo que mide el grado de flexión que se aplica sobre el mismo. Cuando el dispositivo se encuentra todo estirado el grado de flexión es de 0, y cuando se encuentra flexionado a su limite maximo es de 180.
 
