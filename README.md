@@ -39,7 +39,7 @@ De la forma que se implemento en nustro proyecto es que a medida que aumente el 
 
 ### Motor de aficionado
 
-Es similar al motor cc, tiene dos terminales, uno positivo y otro negativo, cuando a este se le aplica un voltaje gira hacia un lado y la velocidad también se mide en RPM. Sin embargo, si se aplica un voltaje pero, los cables estan conectados al revez, el motor empezaría a girar hacia el lado contrario. Puede ir conectado a la placa de Arduino a través de dos pines. 
+Es similar al motor cc, tiene dos terminales, uno positivo y otro negativo, cuando a este se le aplica un voltaje gira hacia un lado y la velocidad también se mide en RPM. Girara hacia el lado contrario si se le aplica el voltaje en su terminal negativa.
 
 En nuestro proyecto se utilizo para que vayan aumentando las RPM mientras aumenta el contador. 
 
@@ -57,7 +57,7 @@ Para determinar el grado de flexión, se realiza con la función map(), en donde
 De la forma que se integro este nuevo dispositivo en nuestro proyecto, es como una validación extra a la condición del swtich para pasar de numeros primos a numeros no primos y viceversa. 
 
 Por ejemplo:
-Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsador de a numeros NO primos, y quieres correr el switch para que se empieze a sumar de a numeros primos (switch hacia la izquierda), no lo permitira hasta que se aplique una flexión de 180° al sensor de flexión. 
+Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsador de a numeros NO primos, y quieres correr el switch para que se empieze a sumar de a numeros primos (switch hacia la izquierda), también tendras que aplicar una flexión de 180° en el sensor para que funcione y cambie finalmente la modalidad.
 
 ## :robot: Link al proyecto
 - [Proyecto](https://www.tinkercad.com/things/dDXRQc7dzjw)
