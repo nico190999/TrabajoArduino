@@ -27,7 +27,7 @@ A traves de los botones del proyecto permite incrementar o resetear el número q
 
 Consta de un dispositivo el cual permite dejarlo de forma activa o inactiva a través de un interruptor. Va conectado a 5V, tierra y un pin de la placa de Arduino.
 
-De la forma que se implemento este dispositivo en nuestro proyecto es que cuando se encuentra de forma activa, solo va a mostrar números primos en los display, en el caso que se pulse el botón para incrementar, pasara al proximo número primo y en el caso de preisonar el botón para presionar volvera a 2 (no puede volver a 0 por que no es un número primo, automaticamanete pasa al siguiente despues del 0).
+De la forma que se implemento este dispositivo en el proyecto es que cuando se encuentra de forma activa, solo va a mostrar números primos en los display, en el caso que se pulse el botón para incrementar, pasara al proximo número primo y en el caso de preisonar el botón reset volvera a 2 (no puede volver a 0 por que no es un número primo, automaticamanete pasa al siguiente despues del 0).
 
 
 ### Motor CC
@@ -41,7 +41,7 @@ De la forma que se implemento en nustro proyecto es que a medida que aumente el 
 
 Es similar al motor cc, tiene dos terminales, uno positivo y otro negativo, cuando a este se le aplica un voltaje gira hacia un lado y la velocidad también se mide en RPM. Girara hacia el lado contrario si se le aplica el voltaje en su terminal negativa.
 
-En nuestro proyecto se utilizo para que vayan aumentando las RPM mientras aumenta el contador. 
+En el proyecto se utilizo para que vayan aumentando las RPM mientras aumenta el contador. 
 
 A tener presente que este aumenta en menor medida a lo que hace el Motor CC por que tiene un reductor que se encarga de que gire más lento pero con mayor fuerza. 
 
