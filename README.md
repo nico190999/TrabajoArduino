@@ -60,7 +60,7 @@ Por ejemplo:
 Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsador de a numeros NO primos, y quieres correr el switch para que se empieze a sumar de a numeros primos (switch hacia la izquierda), también tendras que aplicar una flexión de 180° en el sensor para que funcione y cambie finalmente la modalidad.
 
 ## :robot: Link al proyecto
-- [Proyecto](https://www.tinkercad.com/things/dDXRQc7dzjw)
+- [Proyecto](https://www.tinkercad.com/things/dDXRQc7dzjw](https://www.tinkercad.com/things/asbjOQn4kjp)
 
 ---
 ### Fuentes
