@@ -62,6 +62,7 @@ Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsado
 ## :robot: Link al proyecto
 - [Proyecto 1 ](https://www.tinkercad.com/things/hRHUtgwc0HP)
 - [Proyecto 2 ](https://www.tinkercad.com/things/dDXRQc7dzjw)
+- [Proyecto 3 ](https://www.tinkercad.com/things/bsLdaYgsENA)
 
 ---
 ### Fuentes
