@@ -59,6 +59,13 @@ De la forma que se integro este nuevo dispositivo en nuestro proyecto, es como u
 Por ejemplo:
 Si estas con el switch hacia la derecha, en donde se pueden sumar con el pulsador de a numeros NO primos, y quieres correr el switch para que se empieze a sumar de a numeros primos (switch hacia la izquierda), también tendras que aplicar una flexión de 180° en el sensor para que funcione y cambie finalmente la modalidad.
 
+## PARTE 3
+### Fotorresistencia
+
+Se trata de un dispositivo que va variando dependiendo la luz que incide sobre este, en este caso esa intensidad de luz que recibe, lo podemos manejar directamente desde la simulación.
+
+De la forma que se implemento en el proyecto es que si aumentamos al máximo intensidad de la luz detectada por el dispositivo, hará que automaticamente se reinicie el contador, quedando como un modo "extra" al boton reset ya creado para llevar al contador a 0. A su vez, va conectado a 5V, un pin, y GND. 
+
 ## :robot: Link al proyecto
 - [Proyecto 1 ](https://www.tinkercad.com/things/hRHUtgwc0HP)
 - [Proyecto 2 ](https://www.tinkercad.com/things/dDXRQc7dzjw)
