@@ -12,11 +12,11 @@
 ![Tinkercad](./imagenes/arduinopartedos.PNG)
 
 ## PARTE 1
-## Función principal
+### Función principal
 En esta primera parte consta de una placa de arduino, conectada a 3 pulsadores y 2 display de 7 segmentos. A través de los pulsadores, modifican el número que se muestra en los display, haciendo que este ultimo aumente en 1, resete en 1 o haga un reset para que vuelva a "0" independientemente del número en el que se encuentra. 
 
 ## PARTE 2
-## Función principal
+### Función principal
 Consta de una placa de Arduino, de la cual se desprenden diversos cables que otorgan funcionamiento a través de una diferencia de potencial a 2 display de 7 segmentos, 2 botones, 2 motores, 1 sensor de flexión y 1 interruptor . Los 2 botones realizan modificaciones en el numero que forman ambos displays. Mientras que, el sensor de flexión y el interruptor se encargan de cambiar de la forma que se muestra el contador a un contador de números primos
 
 
