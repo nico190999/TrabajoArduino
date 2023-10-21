@@ -8,9 +8,14 @@
 - Mateo Roberto
 
 
-## Proyecto: Arduino parte 2.
+## Proyecto: Trabajos Arduino.
 ![Tinkercad](./imagenes/arduinopartedos.PNG)
 
+## PARTE 1
+## Función principal
+En esta primera parte consta de una placa de arduino, conectada a 3 pulsadores y 2 display de 7 segmentos. A través de los pulsadores, modifican el número que se muestra en los display, haciendo que este ultimo aumente en 1, resete en 1 o haga un reset para que vuelva a "0" independientemente del número en el que se encuentra. 
+
+## PARTE 2
 ## Función principal
 Consta de una placa de Arduino, de la cual se desprenden diversos cables que otorgan funcionamiento a través de una diferencia de potencial a 2 display de 7 segmentos, 2 botones, 2 motores, 1 sensor de flexión y 1 interruptor . Los 2 botones realizan modificaciones en el numero que forman ambos displays. Mientras que, el sensor de flexión y el interruptor se encargan de cambiar de la forma que se muestra el contador a un contador de números primos
 
@@ -67,9 +72,9 @@ Se trata de un dispositivo que va variando dependiendo la luz que incide sobre e
 De la forma que se implemento en el proyecto es que si aumentamos al máximo intensidad de la luz detectada por el dispositivo, hará que automaticamente se reinicie el contador, quedando como un modo "extra" al boton reset ya creado para llevar al contador a 0. A su vez, va conectado a 5V, un pin, y GND. 
 
 ## :robot: Link al proyecto
-- [Proyecto 1 ](https://www.tinkercad.com/things/hRHUtgwc0HP)
-- [Proyecto 2 ](https://www.tinkercad.com/things/dDXRQc7dzjw)
-- [Proyecto 3 ](https://www.tinkercad.com/things/bsLdaYgsENA)
+- [Parte 1 ](https://www.tinkercad.com/things/hRHUtgwc0HP)
+- [Parte 2 ](https://www.tinkercad.com/things/dDXRQc7dzjw)
+- [Parte 3 ](https://www.tinkercad.com/things/bsLdaYgsENA)
 
 ---
 ### Fuentes
